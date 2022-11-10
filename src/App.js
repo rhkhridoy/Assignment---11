@@ -9,8 +9,3 @@ function App() {
     <div className="container mx-auto">
       <RouterProvider router={router}></RouterProvider>
       <Toaster />
-    </div>
-  );
-}
-
-export default App;
